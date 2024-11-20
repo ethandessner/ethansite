@@ -5,13 +5,13 @@ export default function Home() {
       <header className="container mx-auto flex flex-col px-6">
       <div className="flex mb-4 py-6">
         <span className="px-3 py-1 text-sm bg-blue-100 text-blue-600 rounded-full">
-          Status: Building <em>"Unititled Winter Game"</em>
+          Status: Building <em>Unititled Winter Game</em>
         </span>
       </div>
       <h1 className="text-5xl font-bold mb-4">Ethan Dessner</h1>
     </header>
       <section className="container mx-auto px-6 pt-6">
-        <h2 className="text-3xl font-bold mb-6">Internal dialogue covering <em>"Unititled Winter Game"</em></h2>
+        <h2 className="text-3xl font-bold mb-6">Internal dialogue covering <em>Unititled Winter Game</em></h2>
         <div className="space-y-4">
           <div>
             <p className="text-black-600">
