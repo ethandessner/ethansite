@@ -11,8 +11,13 @@ export default function Home() {
       <h1 className="text-5xl font-bold mb-4">Ethan Dessner</h1>
     </header>
       <section className="container mx-auto px-6 pt-6">
-        <h2 className="text-3xl font-bold mb-6">Internal dialogue covering <em>Unititled Winter Game</em></h2>
+        <h2 className="text-3xl font-bold mb-6">Developer log covering <em>Unititled Winter Game</em></h2>
         <div className="space-y-4">
+        <div>
+            <p className="text-black-600">
+            <strong>11.20.24</strong>
+            </p>
+          </div>
           <div>
             <p className="text-black-600">
               <strong>Why do you want to create a game?</strong>
@@ -58,6 +63,44 @@ export default function Home() {
             I would start off by modifying the code of this game, since it is public, and adding in this “winter” environment that I find comforting.
             </p>
           </div>
+          <div>
+            <p className="text-black-600">
+            <strong>11.27.24</strong>
+            </p>
+          </div>
+          <div>
+            <p className="text-black-600">
+            <strong>How will players progress? What is the reward system?</strong>
+            </p>
+          </div>
+          <div className="space-y-4">
+            <p className="text-gray-600">
+            I like the idea of gathering more resources and getting better tools and equipment - it rewards the player for exploring the map and new environments.
+            </p>
+            <p className="text-gray-600">
+            Getting stronger and being able to take on bigger enemies with less struggle and more strategy due to an increase in resources is always a green flag for me as a player.
+            </p>
+          </div>
+          <div>
+            <p className="text-black-600">
+            <strong>What is the core game mechanic you will focus on?</strong>
+            </p>
+          </div>
+          <div className="space-y-4">
+            <p className="text-gray-600">
+            The main mechanic is the idle progression - what new resources can you collect as a result of exploration?
+            </p>
+            <p className="text-gray-600">
+            What new things can you build as a result of allowing events to trigger?
+            </p>
+            <p className="text-gray-600">
+            Basically, rewarding the player for interacting with different facets of the game will drive it forward.
+            </p>
+            <p className="text-gray-600">
+            Not sure if this makes sense or is an airtight/simple answer, but we’ll get there.           
+            </p>
+          </div>
+
         </div>
       </section>
 
