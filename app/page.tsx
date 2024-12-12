@@ -100,7 +100,30 @@ export default function Home() {
             Not sure if this makes sense or is an airtight/simple answer, but we’ll get there.           
             </p>
           </div>
-
+          <div>
+            <p className="text-black-600">
+            <strong>12.11.24</strong>
+            </p>
+          </div>
+          <div>
+            <p className="text-black-600">
+            <strong>Game Jam with friends</strong>
+            </p>
+          </div>
+          <div className="space-y-4">
+            <p className="text-gray-600">
+            I want to learn the very basics of creating a game and what it means to formulate an idea.
+            </p>
+            <p className="text-gray-600">
+            After doing a bit of research, I learned that to make a good idea, you should write down every idea no matter how
+            </p>
+            <p className="text-gray-600">
+            Then, sift through the garbage and take pieces that you like from the bad ideas and make something interesting.
+            </p>
+            <p className="text-gray-600">
+            I really want ot do something horro-related, but that may be further in the future. Exciting things coming soon.        
+            </p>
+          </div>
         </div>
       </section>
 
